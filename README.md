@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8d7a6aa5-5fb9-447b-8a34-8470bc62df7e)# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
 Ex No : 5
 
